@@ -2,12 +2,12 @@
   "default": {
     "latestVersion": "1.1.0",
     "minSupportedVersion": "1.0",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/HMITS-HSafe/mobile-releases/releases/download/v1.1.0-default/app-default-release.apk",
     "releaseNotes": "Bản 1.1.0"
   },
   "c-vov": {
     "latestVersion": "1.1.0",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/HMITS-HSafe/mobile-releases/releases/download/v1.1.0-vov/app-vov-release.apk",
     "minSupportedVersion": "1.1.0",
     "releaseNotes": "Bản 1.1.0"
   }
