@@ -1,0 +1,8 @@
+{
+  "default": {
+    "latestVersion": "1.0",
+    "minSupportedVersion": "1.0",
+    "downloadUrl": "https://github.com/HMITS-HSafe/mobile-releases/releases/latest",
+    "releaseNotes": ""
+  }
+}
